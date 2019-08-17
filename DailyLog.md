@@ -18,3 +18,10 @@ Challenge from #100daysofcode started on 14 August, 2019.
 - Completed second day challange from #DailyUI. [Codepen-Url](https://codepen.io/emon535/pen/jONqLQV)
 - Learned new css tricks.
 - JavaScript String processing and functions.
+
+### Day #004
+
+- Completed third day challange from #DailyUI. [Codepen-URL](https://codepen.io/emon535/full/yLBJYbw)
+- Started freecodecamp javascript basic course and completed 40+ task . [freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-first-character-in-a-string)
+
+- Solved 3 problems from [coderbyte](https://coderbyte.com/).
