@@ -29,3 +29,10 @@ Challenge from #100daysofcode started on 14 August, 2019.
 #### Day #005
 
 - Completed Basic JavaScript from freeCodeCamp Javascript Algorithms And Data Structures Certification 
+
+
+#### Day #006
+
+- Started ES6 JavaScript from freeCodeCamp Javascript Algorithms And Data Structures Certification 
+- Completed 4th assignment from DailyUI [ Codepen URL](https://codepen.io/emon535/pen/xxKEKra)
+- Studied hashmap data structure from grooking algorithms book.
