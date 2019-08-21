@@ -40,3 +40,7 @@ Challenge from #100daysofcode started on 14 August, 2019.
 
 - Half way done from JavaScript ES6 from freeCodeCamp Javascript Algorithms And Data Structures Certification
 - Completed 5th assignment from DailyUI [ Codepen URL](https://codepen.io/emon535/pen/xxKEKra)
+
+#### Day #008
+
+- Completed 6th assignment - Profile design from DailyUI [ Codepen URL](https://codepen.io/emon535/pen/jONVYNv)
