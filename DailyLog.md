@@ -48,3 +48,7 @@ Challenge from #100daysofcode started on 14 August, 2019.
 #### Day #009
 
 - Completed 7th assignment - Settings page design from DailyUI [ Codepen URL](https://codepen.io/emon535/full/MWgbMPB)
+
+#### Day #010
+
+- Completed 8th assignment - 404 PAGE design from DailyUI [ Codepen URL](https://codepen.io/emon535/full/oNvBMLJ)
