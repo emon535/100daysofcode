@@ -52,3 +52,9 @@ Challenge from #100daysofcode started on 14 August, 2019.
 #### Day #010
 
 - Completed 8th assignment - 404 PAGE design from DailyUI [ Codepen URL](https://codepen.io/emon535/full/oNvBMLJ)
+
+#### Day #011
+
+- Completed Javascript ES6 from freeCodeCamp
+- Prepared for getting admission to JU PMSCS
+
