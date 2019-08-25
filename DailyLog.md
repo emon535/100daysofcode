@@ -58,3 +58,9 @@ Challenge from #100daysofcode started on 14 August, 2019.
 - Completed Javascript ES6 from freeCodeCamp
 - Prepared for getting admission to JU PMSCS
 
+#### Day #012
+
+- Studied ES6 from few other source.
+- Spent most of the day for Admission Process for Masters.
+
+
