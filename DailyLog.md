@@ -63,4 +63,7 @@ Challenge from #100daysofcode started on 14 August, 2019.
 - Studied ES6 from few other source.
 - Spent most of the day for Admission Process for Masters.
 
+#### Day #013
 
+- Completed 09 challenge from #DailyUI [Codepen-url](https://codepen.io/emon535/full/wvwJjRm).
+- Contributed to an [ open source project. ](https://github.com/open-source-developers/front-end)
