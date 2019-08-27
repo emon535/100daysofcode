@@ -67,3 +67,9 @@ Challenge from #100daysofcode started on 14 August, 2019.
 
 - Completed 09 challenge from #DailyUI [Codepen-url](https://codepen.io/emon535/full/wvwJjRm).
 - Contributed to an [ open source project. ](https://github.com/open-source-developers/front-end)
+
+#### Day #014
+
+- Completed 10th challenge from #DailyUI [Codepen-url](https://codepen.io/emon535/full/bGbWBMz).
+- Studied data structure - stack queue and few basic algorithm implementation.
+
