@@ -79,3 +79,9 @@ Challenge from #100daysofcode started on 14 August, 2019.
 - Completed 11th challenge from #DailyUI [Codepen-url](https://codepen.io/emon535/full/bGbWBMz).
 - Studied SOLID 
 
+
+#### Day #016
+
+- Completed 12th challenge from #DailyUI [Codepen-url](https://codepen.io/emon535/pen/BaBZqvV).
+- Continue studying SOLID principle.  
+
