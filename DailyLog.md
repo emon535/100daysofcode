@@ -85,3 +85,10 @@ Challenge from #100daysofcode started on 14 August, 2019.
 - Completed 12th challenge from #DailyUI [Codepen-url](https://codepen.io/emon535/pen/BaBZqvV).
 - Continue studying SOLID principle.  
 
+#### Day #017
+
+- Completed 13th challenge from #DailyUI [Codepen-url](https://codepen.io/emon535/pen/pozryYY
+).
+- Reviewed OOP Concept like
+  -- Abstruction , Inheritance , Interface , Abstract Class, SOLID , Objects in JavaScript.
+
