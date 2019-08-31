@@ -87,8 +87,14 @@ Challenge from #100daysofcode started on 14 August, 2019.
 
 #### Day #017
 
-- Completed 13th challenge from #DailyUI [Codepen-url](https://codepen.io/emon535/pen/pozryYY
-).
+- Completed 13th challenge from #DailyUI [Codepen-url](https://codepen.io/emon535/pen/pozryYY ).
 - Reviewed OOP Concept like
-  -- Abstruction , Inheritance , Interface , Abstract Class, SOLID , Objects in JavaScript.
+    - - Abstruction , Inheritance , Interface , Abstract Class, SOLID , Objects in JavaScript.
+
+
+#### Day #018
+
+- Practiced Javascript object [Destructuring assignment](https://javascript.info/destructuring-assignment) 
+
+
 
