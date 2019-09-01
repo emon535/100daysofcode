@@ -103,6 +103,7 @@ Challenge from #100daysofcode started on 14 August, 2019.
 
 - Completed Javascript regular expression from freeCodeCamp.
 - Completed flex css from [flexboxfroggy]( https://flexboxfroggy.com/)
+- Solved 2 problems from [codewars](https://www.codewars.com/users/emon535)
 
 
 
