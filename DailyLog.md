@@ -73,37 +73,34 @@ Challenge from #100daysofcode started on 14 August, 2019.
 - Completed 10th challenge from #DailyUI [Codepen-url](https://codepen.io/emon535/full/bGbWBMz).
 - Studied data structure - stack queue and few basic algorithm implementation.
 
-
 #### Day #015
 
 - Completed 11th challenge from #DailyUI [Codepen-url](https://codepen.io/emon535/full/bGbWBMz).
-- Studied SOLID 
-
+- Studied SOLID
 
 #### Day #016
 
 - Completed 12th challenge from #DailyUI [Codepen-url](https://codepen.io/emon535/pen/BaBZqvV).
-- Continue studying SOLID principle.  
+- Continue studying SOLID principle.
 
 #### Day #017
 
-- Completed 13th challenge from #DailyUI [Codepen-url](https://codepen.io/emon535/pen/pozryYY ).
+- Completed 13th challenge from #DailyUI [Codepen-url](https://codepen.io/emon535/pen/pozryYY).
 - Reviewed OOP Concept like
-    -  Abstruction , Inheritance , Interface , Abstract Class, SOLID , Objects in JavaScript.
-
+  - Abstruction , Inheritance , Interface , Abstract Class, SOLID , Objects in JavaScript.
 
 #### Day #018
 
-- Practiced Javascript object [Destructuring assignment](https://javascript.info/destructuring-assignment) 
-
-
-
+- Practiced Javascript object [Destructuring assignment](https://javascript.info/destructuring-assignment)
 
 #### Day #019
 
 - Completed Javascript regular expression from freeCodeCamp.
-- Completed flex css from [flexboxfroggy]( https://flexboxfroggy.com/)
+- Completed flex css from [flexboxfroggy](https://flexboxfroggy.com/)
 - Solved 2 problems from [codewars](https://www.codewars.com/users/emon535)
 
+#### Day #020
 
-
+- Completed task 14- Timer from @DailyUI [URL](https://codepen.io/emon535/pen/yLBoRRG)
+- Studied design patterns and OOP concepts.
+- Completed "Debugging" section from JS/FCC
