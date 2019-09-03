@@ -107,6 +107,6 @@ Challenge from #100daysofcode started on 14 August, 2019.
 
 #### Day #021
 
-- Completed task 15- Timer from @DailyUI [URL](https://codepen.io/emon535/pen/ExYwdZO)
+- Completed task 15- Switch Buton from @DailyUI [URL](https://codepen.io/emon535/pen/ExYwdZO)
 - Studied design patterns " Factory | Stretegy | Observer " and clean code concepts.
 - Started "JavaScript Data Script " section from freeCodeCamp
