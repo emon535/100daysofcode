@@ -109,4 +109,12 @@ Challenge from #100daysofcode started on 14 August, 2019.
 
 - Completed task 15- Switch Buton from @DailyUI [URL](https://codepen.io/emon535/pen/ExYwdZO)
 - Studied design patterns " Factory | Stretegy | Observer " and clean code concepts.
-- Started "JavaScript Data Script " section from freeCodeCamp
+- Started "JavaScript Data Structure " section from freeCodeCamp
+
+
+
+#### Day #022
+
+- Completed task 16- Switch Buton from @DailyUI [URL](https://codepen.io/emon535/pen/zYOPEye)
+- Continue "JavaScript Data Structure " section from freeCodeCamp
+- Listened podcast on "SOLID and JavaScript Clean Code"
