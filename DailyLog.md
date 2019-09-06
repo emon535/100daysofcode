@@ -111,16 +111,19 @@ Challenge from #100daysofcode started on 14 August, 2019.
 - Studied design patterns " Factory | Stretegy | Observer " and clean code concepts.
 - Started "JavaScript Data Structure " section from freeCodeCamp
 
-
-
 #### Day #022
 
 - Completed task 16- Popover from @DailyUI [URL](https://codepen.io/emon535/pen/zYOPEye)
 - Continue "JavaScript Data Structure " section from freeCodeCamp
 - Listened podcast on "SOLID and JavaScript Clean Code"
 
-
 #### Day #023
+
 - Completed task 17- Email Receipt from @DailyUI [URL](https://codepen.io/emon535/pen/WNeXPrx)
 - Continue "JavaScript Data Structure " section from freeCodeCamp
 - Studied about NoSQL databases like DynamoDB and MongoDB.
+
+#### Day #024
+
+- Half way done task 18- Email Receipt from @DailyUI [URL](https://codepen.io/emon535/pen/aboEMzX)
+- Studied JavaScript OOP concepts, Class, Constructor , Objects, Prototype and created a repo to practice [Repo Link](https://github.com/emon535/Javascript-OOP)
