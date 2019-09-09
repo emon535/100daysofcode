@@ -127,3 +127,13 @@ Challenge from #100daysofcode started on 14 August, 2019.
 
 - Half way done task 18- Email Receipt from @DailyUI [URL](https://codepen.io/emon535/pen/aboEMzX)
 - Studied JavaScript OOP concepts, Class, Constructor , Objects, Prototype and created a repo to practice [Repo Link](https://github.com/emon535/Javascript-OOP)
+
+#### Day #025
+
+- Studied JavaScript Prototyping , Abstract Class , Static methods and related concepts. 
+- Contribhuted few concepts, on the repo for references. [Repo Link](https://github.com/emon535/Javascript-OOP)
+
+#### Day #026
+
+- Studied React functional component and class component. 
+- Designed a card layout with Flex CSS .
