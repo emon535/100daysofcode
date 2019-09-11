@@ -137,3 +137,13 @@ Challenge from #100daysofcode started on 14 August, 2019.
 
 - Studied React functional component and class component. 
 - Designed a card layout with Flex CSS .
+
+
+#### Day #027
+
+- Studied Typescript basic and started a repository [URL](https://github.com/emon535/typescript-intro) . 
+
+
+#### Day #028
+
+- Spend the day sudying atomic design methodology
