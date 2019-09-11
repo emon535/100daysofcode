@@ -135,7 +135,7 @@ Challenge from #100daysofcode started on 14 August, 2019.
 
 #### Day #026
 
-- Studied React functional component and class component. 
+- Studied React functional component and class component.
 - Designed a card layout with Flex CSS .
 
 
@@ -146,4 +146,4 @@ Challenge from #100daysofcode started on 14 August, 2019.
 
 #### Day #028
 
-- Spend the day sudying atomic design methodology
+- Spend the day sudying atomic design methodology from  [Link](http://atomicdesign.bradfrost.com/chapter-2/)
