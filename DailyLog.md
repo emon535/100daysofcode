@@ -147,3 +147,9 @@ Challenge from #100daysofcode started on 14 August, 2019.
 #### Day #028
 
 - Spend the day sudying atomic design methodology from  [Link](http://atomicdesign.bradfrost.com/chapter-2/)
+
+
+#### Day #029
+
+- Started Elequent Javascript book. 
+- Resumed Freecodecamp javascript course. 
