@@ -153,3 +153,8 @@ Challenge from #100daysofcode started on 14 August, 2019.
 
 - Started Elequent Javascript book. 
 - Resumed Freecodecamp javascript course. 
+
+#### Day #030
+
+- Studied Promise and async/ await from javascript 
+- Studied problem solving aproach from lynda 
