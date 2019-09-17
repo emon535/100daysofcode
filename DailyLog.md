@@ -157,4 +157,9 @@ Challenge from #100daysofcode started on 14 August, 2019.
 #### Day #030
 
 - Studied Promise and async/ await from javascript 
-- Studied problem solving aproach from lynda 
+- Studied problem solving aproach from lynda/linkedin learn.
+
+
+#### Day #031
+- Solved few JavaScript course curriculum from freeCodeCamp.
+- Practiced few promise and async await functions.
