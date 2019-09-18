@@ -130,7 +130,7 @@ Challenge from #100daysofcode started on 14 August, 2019.
 
 #### Day #025
 
-- Studied JavaScript Prototyping , Abstract Class , Static methods and related concepts. 
+- Studied JavaScript Prototyping , Abstract Class , Static methods and related concepts.
 - Contribhuted few concepts, on the repo for references. [Repo Link](https://github.com/emon535/Javascript-OOP)
 
 #### Day #026
@@ -138,28 +138,30 @@ Challenge from #100daysofcode started on 14 August, 2019.
 - Studied React functional component and class component.
 - Designed a card layout with Flex CSS .
 
-
 #### Day #027
 
-- Studied Typescript basic and started a repository [URL](https://github.com/emon535/typescript-intro) . 
-
+- Studied Typescript basic and started a repository [URL](https://github.com/emon535/typescript-intro) .
 
 #### Day #028
 
-- Spend the day sudying atomic design methodology from  [Link](http://atomicdesign.bradfrost.com/chapter-2/)
-
+- Spend the day sudying atomic design methodology from [Link](http://atomicdesign.bradfrost.com/chapter-2/)
 
 #### Day #029
 
-- Started Elequent Javascript book. 
-- Resumed Freecodecamp javascript course. 
+- Started Elequent Javascript book.
+- Resumed Freecodecamp javascript course.
 
 #### Day #030
 
-- Studied Promise and async/ await from javascript 
+- Studied Promise and async/ await from javascript
 - Studied problem solving aproach from lynda/linkedin learn.
 
-
 #### Day #031
+
 - Solved few JavaScript course curriculum from freeCodeCamp.
 - Practiced few promise and async await functions.
+
+#### Day #032
+
+- Solved few JavaScript course curriculum from freeCodeCamp.
+- Completed task 25 from dailyui [ CODEPEN LINK ](https://codepen.io/emon535/full/ExYdbvP)
