@@ -165,3 +165,11 @@ Challenge from #100daysofcode started on 14 August, 2019.
 
 - Solved few JavaScript course curriculum from freeCodeCamp.
 - Completed task 25 from dailyui [ CODEPEN LINK ](https://codepen.io/emon535/full/ExYdbvP)
+
+
+#### Day 033 
+
+- Designed a JavaScript animation protfollio slider [URL](https://codepen.io/emon535/pen/bGbmzBg)
+
+- Learned javascript generator function and few important functions.
+
