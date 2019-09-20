@@ -170,6 +170,6 @@ Challenge from #100daysofcode started on 14 August, 2019.
 #### Day 033 
 
 - Designed a JavaScript animation protfollio slider [URL](https://codepen.io/emon535/pen/bGbmzBg)
-
 - Learned javascript generator function and few important functions.
+
 
