@@ -172,4 +172,11 @@ Challenge from #100daysofcode started on 14 August, 2019.
 - Designed a JavaScript animation protfollio slider [URL](https://codepen.io/emon535/pen/bGbmzBg)
 - Learned javascript generator function and few important functions.
 
+#### Day 034
+
+- Practiced grid layout and done some experimental work
+- Started Object Oriented Programming from javascript FCC.
+
+
+
 
