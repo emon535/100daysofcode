@@ -178,5 +178,12 @@ Challenge from #100daysofcode started on 14 August, 2019.
 - Started Object Oriented Programming from javascript FCC.
 
 
+#### Day 035
+
+- Designed a tooltip and generate it with jQuery.
+- Continue Object Oriented Programming from javascript FCC.
+
+
+
 
 
