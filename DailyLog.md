@@ -166,8 +166,7 @@ Challenge from #100daysofcode started on 14 August, 2019.
 - Solved few JavaScript course curriculum from freeCodeCamp.
 - Completed task 25 from dailyui [ CODEPEN LINK ](https://codepen.io/emon535/full/ExYdbvP)
 
-
-#### Day 033 
+#### Day 033
 
 - Designed a JavaScript animation protfollio slider [URL](https://codepen.io/emon535/pen/bGbmzBg)
 - Learned javascript generator function and few important functions.
@@ -177,16 +176,16 @@ Challenge from #100daysofcode started on 14 August, 2019.
 - Practiced grid layout and done some experimental work
 - Started Object Oriented Programming from javascript FCC.
 
-
 #### Day 035
 
 - Designed a tooltip and generate it with jQuery.
 - Continue Object Oriented Programming from javascript FCC.
 
 #### Day 036
--  Completed Object Oriented Programming from javascript FCC.
 
+- Completed Object Oriented Programming from javascript FCC.
 
+#### Day 037
 
-
-
+- Started Functional Programming from javascript FCC.
+- Created a Note Taking App for a test, Likn: [ NoteTakingApp ](https://codepen.io/emon535/full/qBWwmYV) ;
