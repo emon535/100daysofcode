@@ -126,15 +126,68 @@ var watchList = [
 
 // Add your code below this line
 
-var filteredList;
-filteredList = watchList
-  .map(item => {
+var filteredList = watchList
+  .map(list => {
     return {
-      title: item.Title,
-      rating: item.imdbRating
+      title: list["Title"],
+      items: list["imdbRating"]
     };
   })
-  .filter(e => item.imdbRating >= 8.0);
+  .filter(e => e.items >= 8);
 // Add your code above this line
 
-console.log(filteredList);
+// console.log("=>", filteredList);
+
+// Implement the filter Method on a Prototype
+
+// the global Array
+var s = [23, 65, 98, 5];
+
+Array.prototype.myFilter = function(callback) {
+  var newArray = [];
+  // Add your code below this line
+  this.forEach(items => {
+    if (callback(items) == true) {
+      newArray.push(items);
+    }
+  });
+  // Add your code above this line
+  return newArray;
+};
+
+var new_s = s.myFilter(function(item) {
+  return item % 2 === 1;
+});
+
+// Return Part of an Array Using the slice Method:
+
+function sliceArray(anim, beginSlice, endSlice) {
+  // Add your code below this line
+  // Add your code above this line
+}
+var inputAnim = ["Cat", "Dog", "Tiger", "Zebra", "Ant"];
+sliceArray(inputAnim, 1, 3);
+
+//Remove Elements from an Array Using slice Instead of splice
+
+function nonMutatingSplice(cities) {
+  // Add your code below this line
+  let remain = cities.slice(0, 3);
+  console.log(remain);
+  return remain;
+  // Add your code above this line
+}
+var inputCities = ["Chicago", "Delhi", "Islamabad", "London", "Berlin"];
+nonMutatingSplice(inputCities);
+
+// Combine Two Arrays Using the concat Method
+
+function nonMutatingConcat(original, attach) {
+  // Add your code below this line
+
+  return original.concat(attach);
+  // Add your code above this line
+}
+var first = [1, 2, 3];
+var second = [4, 5];
+nonMutatingConcat(first, second);
