@@ -238,7 +238,9 @@ function urlSlug(title) {
     .toLowerCase();
 }
 
-var winterComing = urlSlug(globalTitle); // Should be "winter-is-coming"
+var winterComing = urlSlug(globalTitle); 
+
+// Should be "winter-is-coming"
 
 console.log(winterComing);
 
