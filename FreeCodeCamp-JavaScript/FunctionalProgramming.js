@@ -140,18 +140,18 @@ var filteredList = watchList
 
 // Implement the filter Method on a Prototype
 
-// the global Array
+// Push value to Array
+//global s ;
 var s = [23, 65, 98, 5];
 
 Array.prototype.myFilter = function(callback) {
   var newArray = [];
-  // Add your code below this line
   this.forEach(items => {
     if (callback(items) == true) {
       newArray.push(items);
     }
   });
-  // Add your code above this line
+
   return newArray;
 };
 
@@ -161,21 +161,16 @@ var new_s = s.myFilter(function(item) {
 
 // Return Part of an Array Using the slice Method:
 
-function sliceArray(anim, beginSlice, endSlice) {
-  // Add your code below this line
-  // Add your code above this line
-}
+function sliceArray(anim, beginSlice, endSlice) {}
 var inputAnim = ["Cat", "Dog", "Tiger", "Zebra", "Ant"];
 sliceArray(inputAnim, 1, 3);
 
 //Remove Elements from an Array Using slice Instead of splice
 
 function nonMutatingSplice(cities) {
-  // Add your code below this line
   let remain = cities.slice(0, 3);
   console.log(remain);
   return remain;
-  // Add your code above this line
 }
 var inputCities = ["Chicago", "Delhi", "Islamabad", "London", "Berlin"];
 nonMutatingSplice(inputCities);
@@ -183,11 +178,116 @@ nonMutatingSplice(inputCities);
 // Combine Two Arrays Using the concat Method
 
 function nonMutatingConcat(original, attach) {
-  // Add your code below this line
-
   return original.concat(attach);
-  // Add your code above this line
 }
 var first = [1, 2, 3];
 var second = [4, 5];
 nonMutatingConcat(first, second);
+
+// Add Elements to the End of an Array Using concat Instead of push
+
+function nonMutatingPush(original, newItem) {
+  return original.concat(newItem);
+}
+var first = [1, 2, 3];
+var second = [4, 5];
+nonMutatingPush(first, second);
+
+// Use the reduce Method to Analyze Data
+
+var averageRating;
+let sum = watchList
+  .filter(item => item.Director === "Christopher Nolan")
+  .map(item => Number(item.imdbRating))
+  .reduce((x, y) => x + y);
+
+console.log(sum);
+let len = watchList.filter(item => item.Director === "Christopher Nolan")
+  .length;
+console.log(len);
+averageRating = sum / len;
+
+console.log(averageRating);
+
+// Split a String into an Array Using the split Method:
+
+function splitify(str) {
+  return str.split(/\W/); // No "" Sign;
+}
+
+splitify("Hello World,I-am code");
+
+//Combine an Array into a String Using the join Method:
+
+function sentensify(str) {
+  return str.split(/\W/).join(" ");
+}
+sentensify("May-the-force-be-with-you");
+
+// Apply Functional Programming to Convert Strings to URL Slugs
+
+var globalTitle = " Winter Is  Coming";
+
+function urlSlug(title) {
+  return title
+    .split(/\W/)
+    .filter(item => {
+      if (item !== "") return true;
+    })
+    .join("-")
+    .toLowerCase();
+}
+
+var winterComing = urlSlug(globalTitle); // Should be "winter-is-coming"
+
+console.log(winterComing);
+
+// Use the every Method to Check that Every Element in an Array Meets a Criteria
+
+function checkPositive(arr) {
+  return arr.every(item => item > 0);
+}
+
+console.log(checkPositive([1, 2, 3, -4, 5]));
+
+// Use the some Method to Check that Any Elements in an Array Meet a Criteria
+
+function checkPositive(arr) {
+  return arr.some(item => item > 0);
+}
+console.log(checkPositive([1, 2, 3, -4, 5]));
+
+// Introduction to Currying and Partial Application
+
+//Un-curried function
+function unCurried(x, y) {
+  return x + y;
+}
+
+//Curried function
+function curried(x) {
+  return function(y) {
+    return x + y;
+  };
+}
+curried(1)(2); // Returns 3
+
+// Call a curried function in parts:
+var funcForY = curried(1);
+console.log(funcForY(2)); // Prints 3
+
+//Impartial function
+function impartial(x, y, z) {
+  return x + y + z;
+}
+var partialFn = impartial.bind(this, 1, 2);
+partialFn(10); // Returns 13
+
+function add(x) {
+  return function(y) {
+    return function(z) {
+      return x + y + z;
+    };
+  };
+}
+add(10)(20)(30);
