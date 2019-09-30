@@ -200,3 +200,9 @@ Challenge from #100daysofcode started on 14 August, 2019.
 
 - Completed Functional Programming from javascript FCC.
 - Started Intermediate Algorithm Scripting
+
+
+#### Day #040
+
+- Continue Intermediate Algorithm Scripting from FCC.
+- Studied graph problem solving, dijkstra algorithm and solved a problem from HackerRank.
