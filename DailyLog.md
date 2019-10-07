@@ -195,14 +195,16 @@ Challenge from #100daysofcode started on 14 August, 2019.
 - Half way done Functional Programming from javascript FCC.
 - Worked on FCC Responsive Website design projects.;
 
-
 #### Day #039
 
 - Completed Functional Programming from javascript FCC.
 - Started Intermediate Algorithm Scripting
 
-
 #### Day #040
 
 - Continue Intermediate Algorithm Scripting from FCC.
 - Studied graph problem solving, dijkstra algorithm and solved a problem from HackerRank.
+
+#### Day #041
+
+- Developed a small app with react-redux.
