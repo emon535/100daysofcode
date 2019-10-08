@@ -208,3 +208,8 @@ Challenge from #100daysofcode started on 14 August, 2019.
 #### Day #041
 
 - Developed a small app with react-redux.
+
+#### Day #042
+
+- Studied more about redux and react-redux. Learned redux middleware, connect , action, store and reduced.
+- Started a blogpost application with react-redux, stuck with some issue
