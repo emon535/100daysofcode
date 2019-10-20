@@ -213,3 +213,10 @@ Challenge from #100daysofcode started on 14 August, 2019.
 
 - Studied more about redux and react-redux. Learned redux middleware, connect , action, store and reduced.
 - Started a blogpost application with react-redux, stuck with some issue
+
+
+#### Day #043
+
+- Resumed #100daysofcode after 10 days. 
+- Started Solving algorithms from FreeCodeCamp.
+- Solved few problems from Codewars.
