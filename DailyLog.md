@@ -220,3 +220,9 @@ Challenge from #100daysofcode started on 14 August, 2019.
 - Resumed #100daysofcode after 10 days. 
 - Started Solving algorithms from FreeCodeCamp.
 - Solved few problems from Codewars.
+
+
+#### Day #044
+
+- Solved 3 problems from Codewars and get to level 6
+
