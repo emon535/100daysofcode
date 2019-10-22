@@ -226,3 +226,8 @@ Challenge from #100daysofcode started on 14 August, 2019.
 
 - Solved 3 problems from Codewars and get to level 6
 
+### Day #45
+
+- Solved 3 problems from HackerRank
+- Solved freeCodeCamp algorithm probelms.
+
