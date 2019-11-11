@@ -231,3 +231,41 @@ Challenge from #100daysofcode started on 14 August, 2019.
 - Solved 3 problems from HackerRank
 - Solved freeCodeCamp algorithm probelms.
 
+### Day #46
+
+- Solved problems in leetcode
+
+
+### Day #47
+
+- Solved 2 problems in leetcode
+
+
+### Day #48
+
+- Solved freeCodeCamp algorithm probelms.
+
+
+### Day #49
+
+- Solved freeCodeCamp algorithm probelms.
+- Studied Merge Sort
+
+
+### Day #50
+
+- Solved freeCodeCamp algorithm probelms.
+
+
+### Day #51
+
+- Solved 2 hacker rank problems and learned heap sort algorithms.
+
+
+### Day #52
+
+- Practiced Redux from React and write a blog on redux
+
+### Dat #53
+- Studied d3 from Linkedin Learn. Practiced basic path and data representations.
+
