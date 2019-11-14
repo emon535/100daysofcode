@@ -214,13 +214,11 @@ Challenge from #100daysofcode started on 14 August, 2019.
 - Studied more about redux and react-redux. Learned redux middleware, connect , action, store and reduced.
 - Started a blogpost application with react-redux, stuck with some issue
 
-
 #### Day #043
 
-- Resumed #100daysofcode after 10 days. 
+- Resumed #100daysofcode after 10 days.
 - Started Solving algorithms from FreeCodeCamp.
 - Solved few problems from Codewars.
-
 
 #### Day #044
 
@@ -235,37 +233,44 @@ Challenge from #100daysofcode started on 14 August, 2019.
 
 - Solved problems in leetcode
 
-
 #### Day #47
 
 - Solved 2 problems in leetcode
 
-
 #### Day #48
 
 - Solved freeCodeCamp algorithm probelms.
-
 
 #### Day #49
 
 - Solved freeCodeCamp algorithm probelms.
 - Studied Merge Sort
 
-
 #### Day #50 :dart:
 
 - Solved freeCodeCamp algorithm probelms.
 
-
 #### Day #51
 
 - Solved 2 hacker rank problems and learned heap sort algorithms.
-
 
 #### Day #52
 
 - Practiced Redux from React and write a blog on redux
 
 #### Day #53
+
 - Studied d3 from Linkedin Learn. Practiced basic path and data representations.
 
+#### Day #53
+
+- Studied d3 from Linkedin Learn. Practiced basic path and data representations.
+
+#### Day #54
+
+- Build a fetch api application to load cat and dog photo [Codepen URL](https://codepen.io/emon535/pen/bGGxzxP).
+
+#### Day #55
+
+- Started a javascript project in codepen
+- Solved few problems from freeCodeCamp and codewars
