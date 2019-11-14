@@ -274,3 +274,7 @@ Challenge from #100daysofcode started on 14 August, 2019.
 
 - Started a javascript project in codepen
 - Solved few problems from freeCodeCamp and codewars
+
+#### Day #56
+
+- Practiced jQuery in codepen and had some fun with jQuery Animation.
