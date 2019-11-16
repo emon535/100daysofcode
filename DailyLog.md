@@ -278,3 +278,13 @@ Challenge from #100daysofcode started on 14 August, 2019.
 #### Day #56
 
 - Practiced jQuery in codepen and had some fun with jQuery Animation.
+
+#### Day #57
+
+- Practiced DOM and jQuery and started a simple project [Codepen URL](https://codepen.io/emon535/pen/vYYVvLY)
+
+- Studied 3d transform animation with CSS [Codepen](https://codepen.io/emon535/pen/BaaGaBb)
+
+#### Day #58
+
+- Studied framework agnostic components libraries and watched few videos from TraversyMedia.
