@@ -288,3 +288,10 @@ Challenge from #100daysofcode started on 14 August, 2019.
 #### Day #58
 
 - Studied framework agnostic components libraries and watched few videos from TraversyMedia.
+
+#### Day #59
+
+- Started #JavaScript30
+- Done first project from #JavaScript30
+
+
