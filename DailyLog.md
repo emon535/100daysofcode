@@ -293,6 +293,7 @@ Challenge from #100daysofcode started on 14 August, 2019.
 
 - Started #JavaScript30
 - Done first project from #JavaScript30
+- Codepen [URL](https://codepen.io/emon535/pen/GRRPEze)
 
 
 #### Day #60
