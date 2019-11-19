@@ -295,3 +295,9 @@ Challenge from #100daysofcode started on 14 August, 2019.
 - Done first project from #JavaScript30
 
 
+#### Day #60
+
+- Completed Javascript30 task 2. 
+- Codepen URL for javascript live clock [URL](https://codepen.io/emon535/pen/yLLZMJV)
+- Started a eCommerce project with React;
+
