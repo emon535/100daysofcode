@@ -301,4 +301,9 @@ Challenge from #100daysofcode started on 14 August, 2019.
 - Completed Javascript30 task 2. 
 - Codepen URL for javascript live clock [URL](https://codepen.io/emon535/pen/yLLZMJV)
 - Started a eCommerce project with React;
-
+  
+#### Day #61
+ 
+- Completed task 3 from #javascript30
+- Codepen URL ( https://codepen.io/emon535/pen/xxxBKzo?editors=1010) 
+- Started A Ecommerce App with React.
