@@ -11,7 +11,7 @@ Challenge from #100daysofcode started.
 
 
 <img src="Resources/first_round_logo_red.png"
-      style="width: 100px;"/>
+      style="width: 30%;"/>
 
 - [DailyLog](https://github.com/emon535/100daysofcode/blob/master/DailyLog.md)
 - [Twitter](https://twitter.com/emon535)
