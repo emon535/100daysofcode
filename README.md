@@ -1,6 +1,6 @@
-# 100daysofcode
+# 100daysofcode 
 
-<img src="" >
+###  A challenge to code at least 1 hour daily and make something productive
 
 ![image](/Resources/aaaaaaaaaaaaaaaaaaaaab.jpg)
 
