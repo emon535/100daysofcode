@@ -313,3 +313,10 @@ Challenge from #100daysofcode started on 14 August, 2019.
  
 - Completed task 4 from #javascript30
 - Codepen URL https://codepen.io/emon535/pen/LYYaOqy?editors=1010
+
+
+#### Day #63
+ 
+- Completed task 5 from #javascript30
+- Used flex to design the miracle morning principles ( SAVERS )
+- Codepen URL https://codepen.io/emon535/full/xxxNOrv
