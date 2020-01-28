@@ -257,6 +257,7 @@ Challenge from #100daysofcode started on 14 August, 2019.
 #### Day #52
 
 - Practiced Redux from React and write a blog on redux
+- URL [Github](https://github.com/emon535/React-Redux-Blog)
 
 #### Day #53
 
@@ -295,35 +296,75 @@ Challenge from #100daysofcode started on 14 August, 2019.
 - Done first project from #JavaScript30
 - Codepen [URL](https://codepen.io/emon535/pen/GRRPEze)
 
-
 #### Day #60
 
-- Completed Javascript30 task 2. 
+- Completed Javascript30 task 2.
 - Codepen URL for javascript live clock [URL](https://codepen.io/emon535/pen/yLLZMJV)
 - Started a eCommerce project with React;
-  
+
 #### Day #61
- 
+
 - Completed task 3 from #javascript30
-- Codepen URL ( https://codepen.io/emon535/pen/xxxBKzo?editors=1010) 
+- Codepen URL ( https://codepen.io/emon535/pen/xxxBKzo?editors=1010)
 - Started A Ecommerce App with React.
 
-
 #### Day #62
- 
+
 - Completed task 4 from #javascript30
 - Codepen URL https://codepen.io/emon535/pen/LYYaOqy?editors=1010
 
-
 #### Day #63
- 
+
 - Completed task 5 from #javascript30
 - Used flex to design the miracle morning principles ( SAVERS )
 - Codepen URL https://codepen.io/emon535/full/xxxNOrv
 
-
-
 #### Day #63
- 
+
 - Completed task 6 from #javascript30
 - Codepen [ Link](https://codepen.io/emon535/pen/zYYQLvm)
+
+#### Day #64
+
+- Build a nodejs api for phonebook CRUD
+- Github URL [ Link ](https://github.com/emon535/SR-JSTest)
+
+#### Day #65
+
+- Build a Fibonacci React Component
+- Github URL [ Link ](https://github.com/emon535/SR-JSTest)
+
+#### Day #66
+
+- Build a Potato Store "ECommerce App " with React
+- Github URL [ Link ](https://github.com/emon535/Potato-Store)
+
+#### Day #67
+
+- Completed Task 7 from JavaScript #30
+- Github URL [ Link ](https://github.com/emon535/JavaScript30/tree/master/Project7_ArrayCardio-2)
+
+#### Day #68
+
+- Completed Task 8 from JavaScript #30
+- Github URL [ Link ](https://github.com/emon535/JavaScript30/tree/master/Project8_Html5Canvas)
+
+#### Day #69
+
+- Completed Task 9 from JavaScript #30
+- Github URL [ Link ](https://github.com/emon535/JavaScript30/tree/master/Project9_HoldShiftCheckbox)
+
+#### Day #70
+
+- Completed Task 11 from JavaScript #30
+- Github URL [ Link ](https://github.com/emon535/JavaScript30/tree/master/Project11_HTML5Player)
+
+#### Day #71
+
+- Started a Design Pattern Repository in Java
+- Github URL [ Link ](https://github.com/emon535/DesignPatterns)
+
+#### Day #72
+
+- Started a Design Pattern Repository in Java
+- Github URL [ Link ](https://github.com/emon535/DesignPatterns)
